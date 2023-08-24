@@ -3,9 +3,6 @@ import './index.scss'
 import check from '../../../assets/check.png'
 import arrow from '../../../assets/aroow.png'
 
-
-
-
 const Login = () => {
   return (
     <section className='div'>
