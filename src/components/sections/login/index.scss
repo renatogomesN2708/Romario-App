@@ -239,26 +239,28 @@ body{background: rgb(116,198,255);
         text-align: center;
         margin-left: 5em;
         margin-top: 0em;
+
         img {
             display: grid;
-            width: 100px;
-            margin-left: 5.7em;
+            width: 50px;
+            margin-left: 4em;
             margin-top: 4em;
             margin-bottom: 30px;
+
         }
         #arrow {
-            width: 40px;
-            margin-left: 7.5em;
-            margin-top: -26px;
+            width: 35px;
+            margin-left: 4.5em;
+            margin-top: -23px;
         }
     }
     .icon {
-        width: 270px;
-        height: 350px;
+        width: 170px;
+        height: 250px;
     }
     .confir {
         display: grid;
-        font-size: 20px;
+        font-size: 13px;
         margin-top: 0.5em;
     }
     .name {
@@ -267,12 +269,12 @@ body{background: rgb(116,198,255);
         text-align: center;
         align-items: center;
         width: 95%;
-        height: 50px;
+        height: 25px;
         margin-top: 0px;
-        margin-left: 8px;
+        margin-left: 4px;
 
         span {
-            font-size: 20px;
+            font-size: 13px;
         }
     }
 }
