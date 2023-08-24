@@ -231,14 +231,14 @@ body{background: rgb(116,198,255);
     }
     
 }
-@media (max-width: 340px) {
+@media (max-width: 414px) {
     .div {
         display: grid;
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin-left: 1.8em;
-        margin-top: -20em;
+        margin-left: 5em;
+        margin-top: 0em;
         img {
             display: grid;
             width: 100px;
